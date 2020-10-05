@@ -82,7 +82,7 @@ dependencies:
 
 1. Run **Flutter Pub Get**
 
-    Android Studio requires you to sync your project with your new configuration. To do this, you can click **Flutter** in the notification bar above the file editor.  
+    Android Studio requires you to sync your project with your new configuration. To do this, you can click **Pub Get** in the notification bar above the file editor.  
 
     ![](~/images/lib/getting-started/flutter/set-up-android-studio-pub-get.png)
 
